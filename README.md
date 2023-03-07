@@ -16,3 +16,7 @@ O NOCS(Nova Organização de Coleta Seletiva) tem como objetivo auxiliar o traba
 
 ## Contribuições
 
+## Links
+
+<a href="https://nocs-fds.atlassian.net/jira/software/projects/NOCS/boards/1" target="_blank">Jira</a>
+
