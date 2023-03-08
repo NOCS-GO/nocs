@@ -1,5 +1,5 @@
 # N.O.C.S
-**A Nova Organização de Coleta Seletiva**
+**Nova Organização de Coleta Seletiva**
 
 
 ## **Índice**
