@@ -11,7 +11,7 @@
 
 ## Membros:
 - Adaury Neto
-- Diego Sawyer
+- Diego Sawyer <a href="https://github.com/DiegoRodrigues76" target="_blank">GitHub</a>
 - Guilherme Schneck
 - Gilherme Silveira
 - Paulo Campos
