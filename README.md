@@ -10,12 +10,12 @@
 5. Links
 
 ## Membros:
-- Adaury Neto
-- Diego Sawyer <a href="https://github.com/DiegoRodrigues76" target="_blank">GitHub</a>
-- Guilherme Schneck
-- Gilherme Silveira
-- Paulo Campos
-- Vinícius Cabral
+- <a href="https://github.com/Adaurekt" target="_blank">Adaury Neto</a>
+- <a href="https://github.com/DiegoRodrigues76" target="_blank">Diego Sawyer</a>
+- <a href="https://github.com/gl-schneck" target="_blank">Guilherme Schneck</a>
+- <a href="https://github.com/guiga-sa" target="_blank">Guilherme Silveira</a>
+- <a href="https://github.com/paulo-campos-57" target="_blank">Paulo Campos</a>
+- <a href="https://github.com/ViniCabralS" target="_blank">Vinícius Cabral</a>
 
 ## Visão geral 
 
