@@ -4,12 +4,21 @@
 
 ## **Índice**
 1. Visão geral
-2. Como usar
-3. Contribuições
+2. Membros
+3. Como usar
+4. Contribuições
+
+## Membros:
+- Adaury Neto
+- Diego Sawyer
+- Guilherme Schneck
+- Gilherme Silveira
+- Paulo Campos
+- Vinícius Cabral
 
 ## Visão geral 
 
-O NOCS(Nova Organização de Coleta Seletiva) tem como objetivo auxiliar o trabalho de coleta de lixo reduzindo o tempo e o gasto com patrulhas dos caminhões de coleta.
+O NOCS (Nova Organização de Coleta Seletiva) tem como objetivo auxiliar o trabalho de coleta de lixo reduzindo o tempo e o gasto com patrulhas dos caminhões de coleta.
 
 ## Como usar
 
